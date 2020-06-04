@@ -19,7 +19,7 @@ Ruby | Python | Java | C# | HTML | CSS | JavaScript
 
 Ruby on Rails | Django | .NET
 
-### RDS/NoSQL
+### RDB/NoSQL
 
 MySQL | Oracle | Redis
 
@@ -31,4 +31,4 @@ VPC | Cloud Formation | Cloud Trail | Cloud Watch | EC2 | ECR | ECS | ElastiCach
 
 #### その他
 
-GitHub | GitBucket | Docker
+GitHub | GitBucket | Docker | nginx
