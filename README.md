@@ -7,7 +7,8 @@
 |Name|上窪 大暉(Daiki Uekubo)|
 |Habitat|東京都|
 |Twitter|[@daikideal](https://twitter.com/daikideal)|
-|facebook|https://www.facebook.com/daikideal|
+|Facebook|https://www.facebook.com/daikideal|
+|Qiita|https://qiita.com/daikideal|
 
 ## スキル
 
