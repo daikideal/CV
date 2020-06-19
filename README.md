@@ -18,7 +18,7 @@ Ruby | Python | Java | C# | HTML | CSS | JavaScript
 
 ### フレームワーク
 
-Ruby on Rails | Django | Spring Boot | .NET
+Ruby on Rails | Django | Spring Boot | .NET | cypress
 
 ### RDB/NoSQL
 
