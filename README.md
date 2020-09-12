@@ -14,22 +14,22 @@
 
 ### 言語
 
-Ruby | Python | Java | C# | HTML | CSS | JavaScript
+Ruby | Python | Java | C# | JavaScript
 
 ### フレームワーク
 
-Ruby on Rails | Django | Spring Boot | .NET | cypress
+Ruby on Rails | Django | Spring Boot | .NET | Vue.js | cypress
 
 ### RDB/NoSQL
 
-MySQL | Oracle | Redis
+MySQL | Oracle Database | Redis
 
 ### クラウド
 
 #### AWS
 
-VPC | Cloud Formation | Cloud Trail | Cloud Watch | EC2 | ECR | ECS | ElastiCache Redis | ELB | IAM | RDS(for MySQL) | Route53 | S3 | SES 
+EC2 | Route53
 
 #### その他
 
-GitHub | GitBucket | Docker | nginx
+GitHub | CircleCI | Docker | nginx
