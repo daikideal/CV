@@ -28,7 +28,7 @@ MySQL | Oracle Database | Redis
 
 #### AWS
 
-EC2 | Route53
+EC2 | S3 | Kinesis Firehose | Route53
 
 #### その他
 
